@@ -9,5 +9,23 @@ Thia project analyzes the "Bike Buyer Dataset" to uncover insights into customer
 The primary data source used for this analysis is the BIKE_BUYER_Case_Study.csv file containing detailed information about the gender,regions and bike purchased.
 
 ### TOOLS
-Microsoft Excel(Pivot Tables,Charts
-  [Download Here](https://1drv.ms/x/c/de9b91fa6de8ead0/EclWUPn7PsRHuyKQv88urG4BszNVdJnT7_Hn8t3tk7jCPA?e=WrniXw)
+Microsoft Excel [Download Here](https://1drv.ms/x/c/de9b91fa6de8ead0/EclWUPn7PsRHuyKQv88urG4BszNVdJnT7_Hn8t3tk7jCPA?e=WrniXw)
+* For Data Cleaning
+* Pivot Tables,Charts
+
+### DATA CLEANING AND PREPARATION
+In the initial phase of the Data cleaning and preparation,I perform the following action;
+  1. Data loading and Inspection
+  2. Removal of Duplicates and blank spaces
+  3. Data Formating.
+
+### EXPLORATORY DATA ANALYSIS
+EDA involves the exploring of the Data to answer some questions about the data.Such as;
+  1. Identifying which Gender purchased bikes the Most
+  2. Determine Regions with the highest bike purchases
+  3. Age distribution of bike purchased
+  4. Analyse Commute distance and its relation to bike purchases
+  5. Provides key insights and recommendations
+
+### DATA ANALYSIS
+
