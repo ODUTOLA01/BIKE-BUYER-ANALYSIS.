@@ -28,4 +28,6 @@ EDA involves the exploring of the Data to answer some questions about the data.S
   5. Provides key insights and recommendations
 
 ### DATA ANALYSIS
+![BIKE_BUYER ANALYSIS DASHBOARD(ODUTOLA)](https://github.com/user-attachments/assets/4459a3a1-eb74-4672-bd50-d412351cf3b7)
 
+### RESULT
