@@ -1,7 +1,18 @@
 # BIKE-BUYER-ANALYSIS.
 This is where i started implementing the knowledge learned as a Data Analyst.
 
-## Project Topic: BIKE BUYER ANALYSIS
+## PROJECT TOPIC: BIKE BUYER ANALYSIS
+
+## TABLE OF CONTENTS
+* [PROJECT OVERVIEW](#project-overview)
+* [DATA SOURCE](#data-source)
+* [TOOLS](#tools)
+* [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+* [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+* [DATA ANALYSIS](#data-analysis)
+* [RESULTS](#results)
+* [RECOMMENDATIONS](#recommendations)
+* [LIMITATION](#limitation)
 
 ### PROJECT OVERVIEW
 Thia project analyzes the "Bike Buyer Dataset" to uncover insights into customer demographics and purchasing behaviour,identify which gender purchased bikes the most, determine the regions with the highest bike purchases,analyse commute distance and its relation to bike purchases,provide key insights and recommendations based on the data gotten to enable me to tell compelling stories around the data from the insights gotten.
@@ -30,4 +41,19 @@ EDA involves the exploring of the Data to answer some questions about the data.S
 ### DATA ANALYSIS
 ![BIKE_BUYER ANALYSIS DASHBOARD(ODUTOLA)](https://github.com/user-attachments/assets/4459a3a1-eb74-4672-bd50-d412351cf3b7)
 
-### RESULT
+### RESULTS
+1. Male Gender purchased 51.1% of bikes while Female purchased 48.9%
+2. South-east has the highest volume of bike purchased,followed by the North-central and the South-west
+3. Age between 35-44 has the highest distribution,followed by age between 45-54 and age between 25-34
+4. Most bike were purchased by people commuting 0-1 mile daily indicating that buyers prefer bikes for short commutes.
+
+### RECOMMENDATIONS
+ Target Ads by Gender and Region,focus on Males age 25-40 in South-west region
+  * Encourage Female buyers or long distance commuters with special packages'
+  * Stuck more bikes in regions with higher demands
+  * Consider partnerships with offices or delivery services in high purchased areas
+  * provide referral discounts targeting region with high purchased volume
+  * Offer loyalty programs to repeated buyers in top performing segment.
+
+### LIMITATION
+During the ETL(Extraction,Transform and Load) process,there was need to remove duplicates and empty rows and column so as not to altered the results in other to achieve correct insights from the dataset.
